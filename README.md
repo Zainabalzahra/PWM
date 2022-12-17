@@ -1,2 +1,3 @@
 # PWM
-A breathing effected created with PWM .
+A breathing effect created with PWM .
+
